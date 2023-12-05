@@ -1,4 +1,0 @@
-abc@example.com = Tom
-rvd@example.com = David
-yyjd@example.com = Mary
-idfe@example.com = Laura
